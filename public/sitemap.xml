@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/anandhu.me/</loc>
+    <lastmod>2025-04-13T18:04:13+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anandhu.me/posts/</loc>
+    <lastmod>2025-04-13T18:04:13+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anandhu.me/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/anandhu.me/tags/</loc>
+  </url>
+</urlset>

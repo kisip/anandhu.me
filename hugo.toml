@@ -1,0 +1,5 @@
+baseURL = 'https://kisip.github.io/anandhu.me'
+languageCode = 'en-us'
+title = 'Ananhu home page'
+theme = "ananke"
+
