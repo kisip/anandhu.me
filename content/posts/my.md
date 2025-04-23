@@ -4,8 +4,8 @@ draft = false
 title = 'hugo workflow images'
 +++
 ### images
-![Alt text](/images/hugo.png)
+![Alt text](/anandhu.me/images/hugo.png)
 
-![Alt text](/images/hugo1.png)
+![Alt text](/anandhu.me/images/hugo1.png)
 
-![Alt text](/images/hugo2.png)
+![Alt text](/anandhu.me/images/hugo2.png)
