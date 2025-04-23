@@ -105,4 +105,3 @@ https://kisip.github.io/anandhu.me/
 ![Workflow Image 2](/images/hugo1.png)
 
 ![Workflow Image 3](/images/hugo2.png)
-
