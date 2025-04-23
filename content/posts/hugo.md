@@ -100,8 +100,4 @@ https://kisip.github.io/anandhu.me/
 
 ### workflow images
 
-![Workflow Image 1]({{ "/images/hugo.png" | relURL }})
-
-![Workflow Image 2]({{ "/images/hugo1.png" | relURL }})
-
-![Workflow Image 3]({{ "/images/hugo2.png" | relURL }})
+![Alt text](/images/hugo.png)
