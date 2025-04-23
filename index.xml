@@ -1,16 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ananhu home page</title><link>https://kisip.github.io/anandhu.me/</link><description>Recent content on Ananhu home page</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Sat, 19 Apr 2025 21:56:00 +0530</lastBuildDate><atom:link href="https://kisip.github.io/anandhu.me/index.xml" rel="self" type="application/rss+xml"/><item><title>My</title><link>https://kisip.github.io/anandhu.me/posts/my/</link><pubDate>Sat, 19 Apr 2025 21:56:00 +0530</pubDate><guid>https://kisip.github.io/anandhu.me/posts/my/</guid><description>&lt;h1 id="texting">texting&lt;/h1></description></item><item><title>How to setup a free website using Hugo and GitHub pages</title><link>https://kisip.github.io/anandhu.me/posts/hugo/</link><pubDate>Sat, 19 Apr 2025 18:23:00 +0530</pubDate><guid>https://kisip.github.io/anandhu.me/posts/hugo/</guid><description>&lt;h1 id="install-hugo">Install hugo&lt;/h1>
-&lt;p>apt install hugo&lt;/p>
-&lt;h1 id="create-a-new-hugo-site-cmd">Create a New Hugo Site CMD&lt;/h1>
-&lt;p>hugo new site your-site-name&lt;/p>
-&lt;h1 id="initialize-git-repo">Initialize Git Repo&lt;/h1>
-&lt;p>git init&lt;/p>
-&lt;h1 id="add-a-theme-or-submodule">Add a Theme or submodule&lt;/h1>
-&lt;p>git submodule add &amp;ndash;depth=1 &lt;a href="https://github.com/adityatelange/hugo-PaperMod.git">https://github.com/adityatelange/hugo-PaperMod.git&lt;/a> themes/PaperMod&lt;/p>
-&lt;h1 id="add-the-theme-to-your-configtoml">Add the theme to your config.toml&lt;/h1>
-&lt;p>theme = &amp;ldquo;add your theme name&amp;rdquo;&amp;gt;
-theme = &amp;ldquo;PaperMod&amp;rdquo;&lt;/p>
-&lt;h1 id="create-github-repository">Create GitHub Repository&lt;/h1>
-&lt;h1 id="connect-local-repository-to-github">Connect Local Repository to GitHub&lt;/h1>
-&lt;p>git remote add origin &lt;a href="https://github.com/username/username.github.io.git">https://github.com/username/username.github.io.git&lt;/a>&lt;/p>
-&lt;h1 id="configure-hugo-for-github-pages--edit-your-configtoml-file">Configure hugo for GitHub pages : Edit your config.toml file&lt;/h1>
-&lt;p>baseURL = &amp;ldquo;&lt;a href="https://username.github.io/%22">https://username.github.io/&amp;quot;&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ananhu home page</title><link>https://kisip.github.io/anandhu.me/</link><description>Recent content on Ananhu home page</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Sat, 19 Apr 2025 21:56:00 +0530</lastBuildDate><atom:link href="https://kisip.github.io/anandhu.me/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo workflow images</title><link>https://kisip.github.io/anandhu.me/posts/my/</link><pubDate>Sat, 19 Apr 2025 21:56:00 +0530</pubDate><guid>https://kisip.github.io/anandhu.me/posts/my/</guid><description>&lt;h3 id="images">images&lt;/h3>
+&lt;p>&lt;img alt="Alt text" loading="lazy" src="https://kisip.github.io/anandhu.me/images/hugo.png">&lt;/p>
+&lt;p>&lt;img alt="Alt text" loading="lazy" src="https://kisip.github.io/anandhu.me/images/hugo1.png">&lt;/p>
+&lt;p>&lt;img alt="Alt text" loading="lazy" src="https://kisip.github.io/anandhu.me/images/hugo2.png">&lt;/p></description></item><item><title>How to setup a free website using Hugo and GitHub pages</title><link>https://kisip.github.io/anandhu.me/posts/hugo/</link><pubDate>Sat, 19 Apr 2025 18:23:00 +0530</pubDate><guid>https://kisip.github.io/anandhu.me/posts/hugo/</guid><description>&lt;h1 id="what-is-hugo">What is hugo&lt;/h1>
+&lt;p>Hugo is a fast and flexible static site generator written in Go. It&amp;rsquo;s used to create websites, blogs, and other web content by generating HTML pages from source content, typically Markdown. Hugo is known for its speed and ease of use, making it a popular choice for building static websites&lt;/p>
+&lt;h1 id="key-features-and-benefits-of-hugo">Key features and benefits of Hugo:&lt;/h1>
+&lt;h1 id="speed">Speed:&lt;/h1>
+&lt;p>Hugo is renowned for its exceptionally fast build times, often building entire sites in milliseconds.&lt;/p></description></item></channel></rss>
