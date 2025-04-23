@@ -1,5 +1,5 @@
-baseURL = 'https://kisip.github.io/anandhu.me/'
+baseURL = "https://kisip.github.io/anandhu.me/"
 languageCode = 'en-us'
-title = 'Ananhu home page'
+title = 'Anadhu home page'
 theme = "PaperMod"
 
