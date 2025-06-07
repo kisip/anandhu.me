@@ -87,11 +87,11 @@ Go to your repository on GitHub
 
 Click Settings > "Pages"
 ### Commit and push
-git add .
+```git add .```
 
-git commit -m "first commit"
+```git commit -m "first commit"```
 
-git push  origin main
+```git push  origin main```
 
 ### Access Your Site
 
