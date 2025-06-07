@@ -1,4 +1,5 @@
 baseURL = "https://anandhu.me/"
+publishDir = "docs"
 languageCode = 'en-us'
 title = 'Anadhu home page'
 theme = "PaperMod"
