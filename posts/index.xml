@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Anadhu home page</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Anadhu home page</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Apr 2025 18:23:00 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to setup a free website using Hugo and GitHub pages</title>
+      <link>//localhost:1313/posts/hugo/</link>
+      <pubDate>Sat, 19 Apr 2025 18:23:00 +0530</pubDate>
+      <guid>//localhost:1313/posts/hugo/</guid>
+      <description>&lt;h2 id=&#34;what-is-hugo&#34;&gt;What is hugo&lt;/h2&gt;
+&lt;p&gt;Hugo is a fast and flexible static site generator written in Go. It&amp;rsquo;s used to create websites, blogs, and other web content by generating HTML pages from source content, typically Markdown. Hugo is known for its speed and ease of use, making it a popular choice for building static websites&lt;/p&gt;
+&lt;h3 id=&#34;key-features-and-benefits-of-hugo&#34;&gt;Key features and benefits of Hugo:&lt;/h3&gt;
+&lt;h3 id=&#34;speed&#34;&gt;Speed:&lt;/h3&gt;
+&lt;p&gt;Hugo is renowned for its exceptionally fast build times, often building entire sites in milliseconds.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
